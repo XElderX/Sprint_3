@@ -49,10 +49,19 @@ We now releasing our fully made website to public. <b>New changes: </b> </span><
 
 <span> <strong> Promo realease </strong><br>We branched our project to 2 versions. New branch is for promotional site <b>New changes: </b> </span><br>
 <ul>
-  <li>Added additional advertise promo box below navigation bar</li>
-  <li>Added 2 new Svg file. one on promo bar logo and other are sticked on discounted items </li>
+  <li>Added additional advertise promo box below navigation bar.</li>
+  <li>Added 2 new Svg file. one on promo bar logo and other are sticked on discounted items. </li>
   <li>Updated style.css file: Added new svg file' positioning; Promo box logo properties.</li>
 </ul>
 <br>
 
+<span> <strong> Christmas promo commit </strong><br>We releasing updated website for christmas promotion <b>New changes: </b> </span><br>
+<ul>
+  <li>Changed baground to festive theme.</li>
+  <li>Changed promo bar font to more Christmas like font style. </li>
+  <li>Added background image to SVG directory.</li>
+  <li>Changed promo button to new promo Christmas button.</li>
+  <li>Added background image' properties in style.css . </li>
+</ul>
+<br>
 

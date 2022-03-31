@@ -1,4 +1,7 @@
 body {
+
+    background-image: url('SVG/simple hand-painted flat paper-cut christmas_761180.jpg');
+    background-size: cover;
     background-color: rgba(10, 3, 21, 0.755);
 }
 .logo-svg {
