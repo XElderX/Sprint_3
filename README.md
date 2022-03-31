@@ -15,7 +15,7 @@ Sprint Assignment No.3
 <ol>
   <li>You have Clone this repository to your local dir. using Git bash command:<b> git clone https://github.com/XElderX/Sprint_3.git.  </b> </li>
   <li>You have to download required bootstrap compiled code Strongly suggested use (Bootstrap v5.1.3) version you can download from:<b> https://getbootstrap.com/docs/5.1/getting-started/download/ </b> and extract downloaded files into project directory. </li>
-  <li>Execute project.</li>
+  <li>Execute project. Press go live server on VC or just simply copy project dir location to your browser.</li>
 </ol>
 
 
