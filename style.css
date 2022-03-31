@@ -1,6 +1,11 @@
 body {
     background-color: rgba(10, 3, 21, 0.755);
 }
+.logo-svg {
+    filter: invert(1);
+    height: 150px;
+    width: 150px;
+}
 .category {
     width: 100px;
     margin-left: auto;
@@ -17,6 +22,11 @@ body {
     width: 180px;
     margin-left: auto;
     margin-right: auto;   
+}
+.sale {
+    position:absolute;
+    width: 50px;
+    left:150px;
 }
 a {
     text-decoration: none;

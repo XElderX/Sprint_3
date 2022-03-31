@@ -33,12 +33,12 @@ Sprint Assignment No.3
 <span> Changes in new commit. </span>
 <ul>
   <li>Added one more card in section (main page). Now contains 3 cards instead 2. Added Consoles category. </li>
-  <li>Uploaded svg file in SVF dir for new added   category image.</li>
+  <li>Uploaded svg file in SVG dir for new added category image.</li>
   <li>Changed website main background color.</li>
 </ul>
 <br>
-<span> <strong> v1 project Release </strong><br>
-We now releasing our fully made website to public. <b>New changes: </b> </span>
+<span> <strong> v1 Project Release </strong><br>
+We now releasing our fully made website to public. <b>New changes: </b> </span><br>
 
 <ul>
   <li>Added footer to all 3 pages. Footer contains Contact Info.</li>
@@ -47,5 +47,12 @@ We now releasing our fully made website to public. <b>New changes: </b> </span>
 </ul>
 <br>
 
+<span> <strong> Promo realease </strong><br>We branched our project to 2 versions. New branch is for promotional site <b>New changes: </b> </span><br>
+<ul>
+  <li>Added additional advertise promo box below navigation bar</li>
+  <li>Added 2 new Svg file. one on promo bar logo and other are sticked on discounted items </li>
+  <li>Updated style.css file: Added new svg file' positioning; Promo box logo properties.</li>
+</ul>
+<br>
 
 
