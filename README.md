@@ -28,4 +28,15 @@ Sprint Assignment No.3
   <li>All website have implemented navigation bar </li>
   <li>Fully responsive website</li>
 </ul>
+<br>
+
+<span> Changes in new commit </span>
+<ul>
+  <li>Added one more card in section (main page). Now contains 3 cards instead 2. Added Consoles category </li>
+  <li>Uploaded svg file in SVF dir for new added   category image</li>
+  <li>Fully responsive website</li>
+</ul>
+<br>
+
+
 
