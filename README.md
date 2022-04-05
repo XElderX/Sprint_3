@@ -14,8 +14,9 @@ Sprint Assignment No.3
 <span> Properly working project you have to do these steps: </span>
 <ol>
   <li>You have Clone this repository to your local dir. using Git bash command:<b> git clone https://github.com/XElderX/Sprint_3.git.  </b> </li>
-  <li>You have to download required bootstrap compiled code Strongly suggested use (Bootstrap v5.1.3) version you can download from:<b> https://getbootstrap.com/docs/5.1/getting-started/download/ </b> and extract downloaded files into project directory. </li>
-  <li>Execute project. press go live server, or copy dir location to your browser.</li>
+  <li>You have to download required bootstrap compiled code Strongly suggested to use (Bootstrap v5.1.3) version you can download from:<b> https://getbootstrap.com/docs/5.1/getting-started/download/ </b> and extract downloaded files into project directory. </li>
+  <li>Run it on Visual Code app. Simple by clicking on <b> index.html </b> right-mouse click and select <i>Open with Code</i> </li>
+  <li>Execute project. You can do that (if you have Visual Studio Code extension <b> live server </b> ) by clicking on live server <i> right-side bottom corner of app</i> press go live server </i>, or copy dir location to your browser if you haven't got live server extension.</li>
 </ol>
 
 
